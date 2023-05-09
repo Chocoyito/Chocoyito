@@ -1,8 +1,10 @@
-### Hi there 👋
+### Qué onda 👋
 
 - 🌱 Actualmente estoy aprendiendo a no quedarme despierto a las 4 AM.
-- 💬 Preguntame de todo menos Kotlin.
-- ⚡ Dato divertido: Entre más procrastino hago un mejor trabajo.
+- 💬 Preguntame de todo menos ASP.
+- ⚡ Dato super divertidísimo 😭👌: Entre más procrastino, mejor trabajo hago.
+
+- 🙏🏿PHP-GOD >>>>>>> AZZZP😴
 
 <!--
 **Chocoyito/Chocoyito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
